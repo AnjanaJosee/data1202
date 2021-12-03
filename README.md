@@ -1,34 +1,33 @@
 # data1202
 # Compare and Recommend SVM or Naïve Model for the given dataset
 
-**copyright Nithin Thomas (2021)**
+**copyright Anjana Jose (2021)**
+Create a function to calculate the distribution of channel type from the top 1000 records in the data set given and load only the top 1000 records of the original 4000 into a separate CSV file or to a database table. 
 
-By using SVM and Naïve Bayes algorithm on the available drug data, analyse is carried to compare the accuracy of these models in predicting the drugs and to suggest Mr. Hughes a better model among these models.
 
 ## Prerequisites
 Use Python ( Jupyter Notebook ) for this code.
 
 ## Dependencies
-- File used for this analysis is 'drugdataset.csv'
+- File used for this analysis is 'youtube_dataset.csv'
 - Install all required libraries for running the python(using jupyter notebook)
 - Load libraries pandas, numpy, matplotlib.pyplot.
 
 ## Usage
-#### Importing Libraries
-#### Load dataset into 'drugdataset.csv' for building model
-#### Understanding the available drugs in the system
-#### Define x(independent)and y(dependent) variables
-#### Split the dataset in training set and test set
-#### Data pre-processing involves splitting the data into training and test set.
-#### Data pre-processing involves splitting the data into training and test set.
-#### Feature scaling or data normalization
-- Feature scaling or data normalization is a method used to normalize the range of independent variables or features of data. So, when the values vary a lot in an independent variable, we use feature scaling so that all the values remain in the comparable range.
-#### Final Step: SVM & Naive Bayes Scripting, Evaluation Report & Matrix Generation
+#### Import all necessary libraries 
+#### Create a new database and import the given data set, ‘youtube_dataset.csv’ in to it.
+#### Introduce a function to perform the tasks such as sorting the data with respect to the variable ‘number of subscribers’, form a dataset of 1000 subscribers.
+#### Call the function.
+#### Plot the distribution. 
+#### Save the sorted data in to a csv file.
+
+- we get a new csv file with the data we sort from the given data set.
+#### Final Step: Print the data in the saved csv file.
 - Generation of Confusion Matrix and Classification Report
-#### Accuracy of Naive Bayes is 0.82 and SVM is 0.95
+#### Also, can load the data in to SQL and form a table.
 
 
-**Note:- Modify the code according to your dataset for various situations and run it. Also note that the accuracy also varies according to your dataset**
+**Note:- Can use this code for different dataset along with various conditions and run it.**
 
 ## Dataset for analysis
-Dataset used for this analysis is uploaded in repository as 'drugdataset.csv' - see this [drugdataset.csv](drugdataset.csv)
+Dataset used for this analysis is uploaded in repository as 'youtube_dataset.csv' - see this [youtube_dataset.csv](youtube_dataset.csv)
