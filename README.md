@@ -1,5 +1,5 @@
 # data1202
-# Create a function to sort and filter data from the given sata set and to form a new csv file.
+# Create a function to sort and filter data from the given data set and to form a new csv file.
 
 **copyright Anjana Jose (2021)**
 
