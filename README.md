@@ -1,7 +1,8 @@
 # data1202
-# 
+# Create a function to sort and filter data from the given sata set and to form a new csv file.
 
 **copyright Anjana Jose (2021)**
+
 Create a function to calculate the distribution of channel type from the top 1000 records in the data set given and load only the top 1000 records of the original 4000 into a separate CSV file or to a database table. 
 
 
@@ -29,5 +30,5 @@ Use Python ( Jupyter Notebook ) for this code.
 
 **Note:- Can use this code for different dataset along with various conditions and run it.**
 
-## Dataset for analysis
-Dataset used for this analysis is uploaded in repository as 'youtube_dataset.csv' - see this [youtube_dataset.csv](youtube_dataset.csv)
+## Dataset used
+Dataset used here is uploaded in repository as 'youtube_dataset.csv' - see this [youtube_dataset.csv](youtube_dataset.csv)
