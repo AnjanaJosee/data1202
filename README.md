@@ -22,10 +22,12 @@ Use Python ( Jupyter Notebook ) for this code.
 #### Plot the distribution. 
 #### Save the sorted data in to a csv file.
 
-- we get a new csv file with the data we sort from the given data set.
 #### Final Step: Print the data in the saved csv file.
-- Generation of Confusion Matrix and Classification Report
+-  we get a new csv file with the data we sort from the given data set.
 #### Also, can load the data in to SQL and form a table.
+
+
+
 
 
 **Note:- Can use this code for different dataset along with various conditions and run it.**
