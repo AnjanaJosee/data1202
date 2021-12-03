@@ -1,5 +1,5 @@
 # data1202
-# Compare and Recommend SVM or Naïve Model for the given dataset
+# 
 
 **copyright Anjana Jose (2021)**
 Create a function to calculate the distribution of channel type from the top 1000 records in the data set given and load only the top 1000 records of the original 4000 into a separate CSV file or to a database table. 
