@@ -12,7 +12,7 @@ Use Python ( Jupyter Notebook ) for this code.
 ## Dependencies
 - File used for this analysis is 'youtube_dataset.csv'
 - Install all required libraries for running the python(using jupyter notebook)
-- Load libraries like pandas, nump and matplotlib.pyplot.
+- Load libraries like pandas, numpy and matplotlib.pyplot.
 
 ## Usage
 #### Import all necessary libraries 
